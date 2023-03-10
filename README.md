@@ -8,7 +8,7 @@ I am a sophmore at the McKevley School of Engineering at Washington University i
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [https://ericyou2.github.io/](http://ericyou2.github.io/)
-* ✉️  You can contact me at [ericyou0809@gmail.com](mailto:ericyou0809@gmail.com)
+* ✉️  You can contact me at [youe@wustl.edu](mailto:youe@wustl.edu)
 * 🚀  I'm currently working on [Stats for Spotify](http://github.com/EricYou2)
 
 ### Skills
